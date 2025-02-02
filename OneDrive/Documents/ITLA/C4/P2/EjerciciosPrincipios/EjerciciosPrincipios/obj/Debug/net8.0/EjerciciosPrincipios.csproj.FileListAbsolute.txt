@@ -1,0 +1,14 @@
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\bin\Debug\net8.0\EjerciciosPrincipios.exe
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\bin\Debug\net8.0\EjerciciosPrincipios.deps.json
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\bin\Debug\net8.0\EjerciciosPrincipios.runtimeconfig.json
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\bin\Debug\net8.0\EjerciciosPrincipios.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\bin\Debug\net8.0\EjerciciosPrincipios.pdb
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\EjerciciosPrincipios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\EjerciciosPrincipios.AssemblyInfoInputs.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\EjerciciosPrincipios.AssemblyInfo.cs
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\EjerciciosPrincipios.csproj.CoreCompileInputs.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\EjerciciosPrincipios.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\refint\EjerciciosPrincipios.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\EjerciciosPrincipios.pdb
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\EjerciciosPrincipios.genruntimeconfig.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\EjerciciosPrincipios\obj\Debug\net8.0\ref\EjerciciosPrincipios.dll

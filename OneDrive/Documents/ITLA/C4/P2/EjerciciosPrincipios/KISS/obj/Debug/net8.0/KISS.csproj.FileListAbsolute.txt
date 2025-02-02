@@ -1,0 +1,14 @@
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\bin\Debug\net8.0\KISS.exe
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\bin\Debug\net8.0\KISS.deps.json
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\bin\Debug\net8.0\KISS.runtimeconfig.json
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\bin\Debug\net8.0\KISS.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\bin\Debug\net8.0\KISS.pdb
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\KISS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\KISS.AssemblyInfoInputs.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\KISS.AssemblyInfo.cs
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\KISS.csproj.CoreCompileInputs.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\KISS.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\refint\KISS.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\KISS.pdb
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\KISS.genruntimeconfig.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\KISS\obj\Debug\net8.0\ref\KISS.dll

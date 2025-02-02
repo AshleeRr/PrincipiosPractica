@@ -1,0 +1,14 @@
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\bin\Debug\net8.0\YAGNI.exe
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\bin\Debug\net8.0\YAGNI.deps.json
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\bin\Debug\net8.0\YAGNI.runtimeconfig.json
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\bin\Debug\net8.0\YAGNI.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\bin\Debug\net8.0\YAGNI.pdb
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\YAGNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\YAGNI.AssemblyInfoInputs.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\YAGNI.AssemblyInfo.cs
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\YAGNI.csproj.CoreCompileInputs.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\YAGNI.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\refint\YAGNI.dll
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\YAGNI.pdb
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\YAGNI.genruntimeconfig.cache
+C:\Users\ashle\OneDrive\Documents\ITLA\C4\P2\EjerciciosPrincipios\YAGNI\obj\Debug\net8.0\ref\YAGNI.dll
